@@ -1,0 +1,5 @@
+name: Maintenance
+main: me.Athelor.MM.MainClass
+version: 1.0
+commands:
+  maintenance:
